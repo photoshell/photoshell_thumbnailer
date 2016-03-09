@@ -1,0 +1,4 @@
+[Thumbnailer Entry]
+TryExec=photoshell_thumbnailer
+Exec=photoshell_thumbnailer %i %o
+MimeType=image/x-canon-cr2
